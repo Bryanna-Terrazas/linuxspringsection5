@@ -91,6 +91,8 @@ Before starting, make sure you have g++ installed on your Ubuntu system. If it's
 
 sudo apt update
 sudo apt install build-essential
+sudo apt install cmatrix
+cmatrix
 
 The command sudo apt install <package-name> is commonly used on Debian-based Linux distributions like Ubuntu to install software packages. Let's break down what each part does:
 
